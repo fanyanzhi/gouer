@@ -11,4 +11,8 @@ contract HelloWorld {
     function get() public view returns(string memory) {
         return storeMsg;
     }
+
+    /*
+    he
+    */
 }
